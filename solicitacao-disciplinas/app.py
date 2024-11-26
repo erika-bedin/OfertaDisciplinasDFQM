@@ -117,4 +117,4 @@ def create_solicitacao():
 
 if __name__ == '__main__':
     # Inicialização da aplicação
-    app.run(debug=True)
+    app.run()
