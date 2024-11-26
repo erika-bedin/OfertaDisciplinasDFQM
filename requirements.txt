@@ -3,4 +3,3 @@ flask-sqlalchemy
 flask-cors
 pyodbc
 gunicorn
-python_version == 3.13.0
